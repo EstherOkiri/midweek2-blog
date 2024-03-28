@@ -1,0 +1,37 @@
+{
+    "books": [
+    {
+        "id":"001",
+        "title": "Stay With Me",
+        "author": "Ayobami Adebayo",
+        "category": "African"
+    },
+    {
+        "id":"002",
+        "title": "Tomorro I Become A Woman",
+        "author": "Aiwanose Odafen",
+        "category": "African"
+    },
+    {
+        "id":"003",
+        "title": "Things We Do Not Tell the People We Love",
+        "author": "Huma Qureshi",
+        "category": "Fiction"
+    },
+    {
+        "id":"004",
+        "title": "Manchester Happened",
+        "author": "Jenifer Nansubuga",
+        "category": "Short Stories"
+    },
+    {
+        "id":"005",
+        "title": "A Broken Peoples Playlist",
+        "author": "Chimeka Garricks",
+        "category": "Short Stories"
+    }
+
+
+]
+}
+    
