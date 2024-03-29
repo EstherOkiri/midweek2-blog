@@ -18,7 +18,7 @@ function App() {
       console.log(data)
       setBlogs(data)
     })
-  })
+  }),[]
 
  
  return (
